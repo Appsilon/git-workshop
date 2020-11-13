@@ -1,2 +1,3 @@
 # Some code
-# Some code with a bug
+# Some code
+# Additional bug fix code
